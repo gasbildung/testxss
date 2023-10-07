@@ -1,0 +1,6 @@
+<style>
+      script {
+        alert("XS");
+        console.log("1");
+      }
+    </style>
