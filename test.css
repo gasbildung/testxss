@@ -1,4 +1,5 @@
 script {
   alert("alerting");
   console.log(1);
+  print();
 }
